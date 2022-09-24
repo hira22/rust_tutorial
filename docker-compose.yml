@@ -6,4 +6,4 @@ services:
     volumes:
       - ./:/app
     environment:
-      USER: hiraoka
+      USER: root
